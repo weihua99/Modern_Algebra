@@ -139,3 +139,35 @@
 <img src="./近世代数.assets/57.png" style="zoom:25%;" />
 
 <img src="./近世代数.assets/58.png" style="zoom:25%;" />
+
+# 2.8.1 群在集合上的作用（一）
+
+<img src="./近世代数.assets/59.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/60.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/61.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/62.png" style="zoom:25%;" />
+
+# 2.8.2 群在集合上的作用（二）
+
+<img src="./近世代数.assets/63.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/64.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/65.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/66.png" style="zoom:25%;" />
+
+# 3.1 群同态与同构的简单性质
+
+<img src="./近世代数.assets/67.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/68.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/69.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/70.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/71.png" style="zoom:25%;" />
