@@ -219,3 +219,45 @@
 <img src="./近世代数.assets/90.png" style="zoom:25%;" />
 
 <img src="./近世代数.assets/91.png" style="zoom:25%;" />
+
+# 3.4.1 群的同构定理（一）
+
+<img src="./近世代数.assets/92.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/93.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/94.png" style="zoom:25%;" />
+
+# 3.4.2 群的同构定理（二）
+
+<img src="./近世代数.assets/95.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/96.png" style="zoom:25%;" />
+
+# 3.5 群的自同构群
+
+<img src="./近世代数.assets/97.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/98.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/99.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/100.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/101.png" style="zoom:25%;" />
+
+# 4.1 环的定义
+
+<img src="./近世代数.assets/102.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/103.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/104.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/105.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/106.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/107.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/108.png" style="zoom:25%;" />
