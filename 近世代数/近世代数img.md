@@ -171,3 +171,51 @@
 <img src="./近世代数.assets/70.png" style="zoom:25%;" />
 
 <img src="./近世代数.assets/71.png" style="zoom:25%;" />
+
+# 3.2.1 正规子群和商群（一）
+
+<img src="./近世代数.assets/72.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/73.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/74.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/75.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/76.png" style="zoom:25%;" />
+
+# 3.2.2 正规子群和商群（二）
+
+<img src="./近世代数.assets/77.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/78.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/79.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/80.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/81.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/82.png" style="zoom:25%;" />
+
+# 3.3.1 群同态基本定理（一）
+
+<img src="./近世代数.assets/83.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/84.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/85.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/86.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/87.png" style="zoom:25%;" />
+
+# 3.3.2 群同态基本定理（二）
+
+<img src="./近世代数.assets/88.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/89.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/90.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/91.png" style="zoom:25%;" />
