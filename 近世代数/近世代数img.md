@@ -261,3 +261,102 @@
 <img src="./近世代数.assets/107.png" style="zoom:25%;" />
 
 <img src="./近世代数.assets/108.png" style="zoom:25%;" />
+
+# 4.2 环的零因子和特征
+
+<img src="./近世代数.assets/109.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/110.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/111.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/112.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/113.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/114.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/115.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/116.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/117.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/118.png" style="zoom:25%;" />
+
+# 4.3 除环和域
+
+<img src="./近世代数.assets/119.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/120.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/121.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/122.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/123.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/124.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/125.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/126.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/127.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/128.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/129.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/130.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/131.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/132.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/133.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/134.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/135.png" style="zoom:25%;" />
+
+# 4.4 模 $n$ 剩余类环
+
+<img src="./近世代数.assets/136.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/137.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/138.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/139.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/140.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/141.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/142.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/143.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/144.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/145.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/146.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/147.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/148.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/149.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/150.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/151.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/152.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/153.png" style="zoom:25%;" />
+
+# 4.5 环和域上的多项式环
+
