@@ -455,3 +455,117 @@
 <img src="./近世代数.assets/197.png" style="zoom:25%;" />
 
 # 5.1 相伴元和不可约元
+
+<img src="./近世代数.assets/198.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/199.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/200.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/201.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/202.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/203.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/204.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/205.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/206.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/207.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/208.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/209.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/210.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/211.png" style="zoom:25%;" />
+
+# 5.2 唯一分解整环定义和性质
+
+<img src="./近世代数.assets/212.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/213.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/214.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/215.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/216.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/217.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/218.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/219.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/220.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/221.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/222.png" style="zoom:25%;" />
+
+# 5.3 主理想整环
+
+<img src="./近世代数.assets/223.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/224.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/225.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/226.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/227.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/228.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/229.png" style="zoom:25%;" />
+
+# 5.4 欧式环
+
+<img src="./近世代数.assets/230.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/231.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/232.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/233.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/234.png" style="zoom:25%;" />
+
+# 5.5 唯一分解整环多项式扩张
+
+<img src="./近世代数.assets/235.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/236.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/237.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/238.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/239.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/240.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/241.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/242.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/243.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/244.png" style="zoom:25%;" />
+
+# 6.1 有限域
+
+<img src="./近世代数.assets/245.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/246.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/247.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/248.png" style="zoom:25%;" />
+
+<img src="./近世代数.assets/249.png" style="zoom:25%;" />
